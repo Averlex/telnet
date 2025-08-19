@@ -1,5 +1,10 @@
 # telnet
 
+[![Go version](https://img.shields.io/badge/go-1.24.2+-blue.svg)](https://golang.org)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Averlex/telnet.svg)](https://pkg.go.dev/github.com/Averlex/telnet)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Averlex/telnet)](https://goreportcard.com/report/github.com/Averlex/telnet)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 CLI telnet tool with support for SIGINT, EOF, and connection timeouts.
 
 ## Features
